@@ -12,7 +12,19 @@ const Contact = () => {
 
         <ul>
           <li>
-            e-mail : <a href="mailto:kao.ring@yahoo.com"> kao.ring@yahoo.com</a>
+            e-mail :{" "}
+            <a href="mailto:kaori.caplan@gmail.com">kaori.caplan@gmail.com</a>
+          </li>
+          <br />
+          <li>
+            github :{" "}
+            <a
+              href="https://github.com/kao-ring"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://github.com/kao-ring
+            </a>
           </li>
           <br />
           <li>

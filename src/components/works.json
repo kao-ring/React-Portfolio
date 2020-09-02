@@ -5,7 +5,8 @@
     "github_link": "https://github.com/kao-ring/Project-2",
     "deployed_link": "https://limitless-refuge-18664.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "HTML, CSS, Bootstrap, Javascript, jQuery, Sequelize, MySQL, NodeExpress, Handlebars, github, heroku"
+    "used_tech": "HTML, CSS, Bootstrap, Javascript, jQuery, Sequelize, MySQL, NodeExpress, Handlebars, github, heroku",
+    "discription": "The Village app allows people from a specific area (zipcode) to check local activities shared by their community."
   },
   {
     "name": "Paws City",
@@ -13,7 +14,8 @@
     "github_link": "https://github.com/nata-stelmakh/PawsCity",
     "deployed_link": "https://nata-stelmakh.github.io/PawsCity/",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "HTML, CSS, BULMA, Javascript, jQuery, github, API,Responsive Design"
+    "used_tech": "HTML, CSS, BULMA, Javascript, jQuery, github, API,Responsive Design",
+    "discription": "An app desined for people looking to adopt and new pet owners, given the user's input location, offers a choice of adoption centers, pet-friendly places, parks and pet stores."
   },
   {
     "name": "Employees Directory",
@@ -21,7 +23,8 @@
     "github_link": "https://github.com/kao-ring/Employee-Directory",
     "deployed_link": "https://employee-directory-kc.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "React.js "
+    "used_tech": "React.js ",
+    "discription": "This app will allow you to search employees by using search form by one of the field and click on the headers to sort the table."
   },
   {
     "name": "Weathe Dashboard",
@@ -29,7 +32,8 @@
     "github_link": "https://github.com/kao-ring/Weather-Dashboard",
     "deployed_link": "https://kao-ring.github.io/Weather-Dashboard/",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "HTML, CSS, Bootstrap, Javascript, API, Responsive Design, Local Storage"
+    "used_tech": "HTML, CSS, Bootstrap, Javascript, API, Responsive Design, Local Storage",
+    "discription": "AS A traveler,I WANT to see the weather outlook for multiple cities,SO THAT I can plan a trip accordingly"
   },
   {
     "name": "TemplateEngine_EmployeeSummary",
@@ -37,7 +41,8 @@
     "github_link": "https://github.com/kao-ring/TemplateEngine_EmployeeSummary",
     "deployed_link": "https://github.com/kao-ring/TemplateEngine_EmployeeSummary",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "Node.js, Express"
+    "used_tech": "Node.js, Express",
+    "discription": " This is a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person so that you have quick access to emails and GitHub profiles. You can input any number of team members, and may be a mix of engineers and interns."
   },
   {
     "name": "Budget-Trackers",
@@ -45,7 +50,8 @@
     "github_link": "https://github.com/kao-ring/Budget-Trackers",
     "deployed_link": "https://budget-trackers-kc.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "Service Workers, IndexedDB "
+    "used_tech": "Service Workers, IndexedDB ",
+    "discription": "Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success."
   },
   {
     "name": "Eat-Da-Burger",
@@ -53,7 +59,8 @@
     "github_link": "https://github.com/kao-ring/Eat-Da-Burger-",
     "deployed_link": "https://eat-da-burger-kiki.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "MySQL, handlebar"
+    "used_tech": "MySQL, handlebar",
+    "discription": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat."
   },
   {
     "name": "Workout-Tracker",
@@ -61,7 +68,8 @@
     "github_link": "https://github.com/kao-ring/Workout-Tracker",
     "deployed_link": "https://workout-tracker-kc.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "MONGO_DB"
+    "used_tech": "MONGO_DB",
+    "discription": "As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled..."
   },
   {
     "name": "Employee Tracker",
@@ -69,7 +77,8 @@
     "github_link": "https://github.com/kao-ring/Employee-Tracker",
     "deployed_link": "https://youtu.be/Z2D-PwOnHo4",
     "deployed_icon": "img/icons/youtube.png",
-    "used_tech": "node, inquirer, MySQL"
+    "used_tech": "node, inquirer, MySQL",
+    "discription": "This is a CLI for managing a company's employees using node, inquirer, and MySQL."
   },
   {
     "name": "Code Quiz",
@@ -77,7 +86,8 @@
     "github_link": "https://github.com/kao-ring/Code-Quiz---HW04",
     "deployed_link": "https://kao-ring.github.io/Code-Quiz---HW04/",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "Web APIs, setInterval, Document Object Model "
+    "used_tech": "Web APIs, setInterval, Document Object Model ",
+    "discription": "This is a quiz game. When you finish all questions, remain time will be your score. If you got wrong answer, you will penalized 5 seconds."
   },
   {
     "name": "Note-Taker",
@@ -85,7 +95,8 @@
     "github_link": "https://github.com/kao-ring/Note-Taker",
     "deployed_link": "https://note-taker-express-kc.herokuapp.com/",
     "deployed_icon": "img/icons/heroku.png",
-    "used_tech": "Express.js, Routing, Postman"
+    "used_tech": "Express.js, Routing, Postman",
+    "discription": " For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed. "
   },
   {
     "name": "Work-Day-Scheduler",
@@ -93,7 +104,8 @@
     "github_link": "https://github.com/kao-ring/Work-Day-Scheduler",
     "deployed_link": "https://kao-ring.github.io/Work-Day-Scheduler/",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "Node.js, npm, Inquirer, ES6, Asynchronous JavaScript"
+    "used_tech": "Node.js, npm, Inquirer, ES6, Asynchronous JavaScript",
+    "discription": "Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery."
   },
   {
     "name": "Password-Generator",
@@ -101,6 +113,7 @@
     "github_link": "https://github.com/kao-ring/Password-Generator",
     "deployed_link": "https://kao-ring.github.io/Password-Generator/",
     "deployed_icon": "img/icons/Octocat.png",
-    "used_tech": "JavaScript"
+    "used_tech": "JavaScript",
+    "discription": "This generator asks user to type or choose to make a password. How many characters do you want in your password? Do you need numbers? Symbols? lower case letters? Capital letters?"
   }
 ]

@@ -15,19 +15,24 @@ const Portfolio = () => {
       </div>
       {/* card*/}
       {worksState.map((work) => (
-        <div class="card mb-3 text-center">
+        <div class="card mb-3 ">
           <div class="row no-gutters">
-            <div class="col-md-6">
+            <div class="col-md-6 ">
               <img src={work.image} class="card-img" alt="..." />
             </div>
+            <br />
             <div class="col-md-6">
               <div class="card-body ">
-                <h4 class="card-title">{work.name} </h4>
+                <h4 class="card-title text-center">{work.name} </h4>
                 <hr />
                 <div class="card-text">Used technologies </div>
                 <p> {work.used_tech}</p>
+
+                <div class="card-text">Discription </div>
+                <p> {work.discription}</p>
               </div>
-              <div>
+              <br />
+              <div className="text-center">
                 <a
                   href={work.github_link}
                   target="_blank"
