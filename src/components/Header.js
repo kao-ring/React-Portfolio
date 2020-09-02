@@ -17,9 +17,9 @@ const Header = () => {
           <nav className="navbar navbar-expand-md navbar-light">
             {/* <!-- Navbar content --> */}
             <Link
-              to="/about"
+              to="/"
               className={
-                location.pathname === "/about" ? "nav-link active" : "nav-link"
+                location.pathname === "/" ? "nav-link active" : "nav-link"
               }
             >
               About
