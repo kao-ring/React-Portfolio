@@ -12,10 +12,9 @@ const Header = () => {
           Kaori Caplan
         </h1>
         <div className="col-md-2 bg-white"></div>
-        {/* <!-- Navbar section --> */}
+
         <div className="col-md-5 m-0 bg-white">
           <nav className="navbar navbar-expand-md navbar-light">
-            {/* <!-- Navbar content --> */}
             <Link
               to="/"
               className={

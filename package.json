@@ -11,6 +11,10 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
+  "engines": {
+    "npm": "6.14.5",
+    "node": "v12.18.2"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

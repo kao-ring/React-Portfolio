@@ -20,7 +20,7 @@ const Contact = () => {
           </li>
           <br />
           <li>
-            <a href={Pdf} target="_blank">
+            <a href={Pdf} target="_blank" rel="noopener noreferrer">
               Kaori Caplan's Resume
             </a>
           </li>

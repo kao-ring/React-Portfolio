@@ -15,6 +15,7 @@ const Portfolio = () => {
             <a
               href="https://note-taker-express-kc.herokuapp.com/"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/heroku-logo-solid-gradient.png"
@@ -23,7 +24,11 @@ const Portfolio = () => {
               />
             </a>
             Note Taker
-            <a href="https://github.com/kao-ring/Note-Taker" target="_blank">
+            <a
+              href="https://github.com/kao-ring/Note-Taker"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
                 alt="GitHub"
@@ -34,6 +39,7 @@ const Portfolio = () => {
           <a
             href="https://note-taker-express-kc.herokuapp.com/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <img
               src="img/note_taker.png"
@@ -44,7 +50,11 @@ const Portfolio = () => {
         </div>
         <div className="col-sm-6 my-3 mx-auto">
           <div className="app-banner">
-            <a href="https://eat-da-burger-kiki.herokuapp.com/" target="_blank">
+            <a
+              href="https://eat-da-burger-kiki.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src="img/heroku-logo-solid-gradient.png"
                 alt="Heroku"
@@ -55,6 +65,7 @@ const Portfolio = () => {
             <a
               href="https://github.com/kao-ring/Eat-Da-Burger-"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
@@ -63,7 +74,11 @@ const Portfolio = () => {
               />
             </a>
           </div>
-          <a href="https://eat-da-burger-kiki.herokuapp.com/" target="_blank">
+          <a
+            href="https://eat-da-burger-kiki.herokuapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               src="img/burger_app.png"
               alt="Eat-Da-urger"
@@ -76,7 +91,11 @@ const Portfolio = () => {
         <div className="col-sm-6 my-3 mx-auto">
           <div className="app-banner">
             Team Project
-            <a href="https://github.com/nata-stelmakh/PawsCity" target="_blank">
+            <a
+              href="https://github.com/nata-stelmakh/PawsCity"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
                 alt="GitHub"
@@ -84,7 +103,11 @@ const Portfolio = () => {
               />
             </a>
           </div>
-          <a href="https://nata-stelmakh.github.io/PawsCity/" target="_blank">
+          <a
+            href="https://nata-stelmakh.github.io/PawsCity/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               src="img/kiki_Paws City.png"
               alt="PawsCity"
@@ -98,6 +121,7 @@ const Portfolio = () => {
             <a
               href="https://github.com/kao-ring/Weather-Dashboard"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
@@ -109,6 +133,7 @@ const Portfolio = () => {
           <a
             href="https://kao-ring.github.io/Weather-Dashboard/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <img
               src="img/kiki_Weather Dashboard.png"
@@ -125,6 +150,7 @@ const Portfolio = () => {
             <a
               href="https://github.com/kao-ring/Work-Day-Scheduler"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
@@ -136,6 +162,7 @@ const Portfolio = () => {
           <a
             href="https://kao-ring.github.io/Work-Day-Scheduler/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <img
               src="img/kiki_Work Day Scheduler.png"
@@ -150,6 +177,7 @@ const Portfolio = () => {
             <a
               href="https://github.com/kao-ring/Code-Quiz---HW04"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/GitHub-Mark-Light-120px-plus.png"
@@ -161,6 +189,7 @@ const Portfolio = () => {
           <a
             href="https://kao-ring.github.io/Code-Quiz---HW04/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <img
               src="img/kiki_Coding Quiz.png"
