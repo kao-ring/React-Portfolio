@@ -1,38 +1,95 @@
-.App {
+.icon {
+  width: 2rem;
+}
+
+.container {
+  /* background: url(img/Brooklyn_Bridge.png) center center / cover no-repeat fixed; */
+}
+
+header {
+  border-bottom: solid 2px;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h5 {
+  color: white;
+}
+.container {
+  margin-bottom: 200px;
+}
+footer {
+  font-size: 0.8em;
+}
+.banner {
+  margin-top: 80%;
+  margin-bottom: 5%;
+}
+
+.icon {
+  height: 2em;
+  margin: 5px;
+}
+.icon-h {
+  height: 3em;
+}
+
+.photo {
+  width: 100%;
+}
+
+h1 {
+  font-size: 2em;
+}
+#work {
+  height: 2em;
+}
+nav {
+  font-size: 1em;
+}
+h5,
+p {
+  font-size: smaller;
+}
+form {
+  font-size: small;
+  width: 100%;
+  height: 100%;
+}
+.app-img {
+  width: 100%;
+  /* margin: 3em; */
+}
+.app-img:hover {
+  width: 101%;
+}
+.app-banner {
+  background-color: dimgray;
+  color: aliceblue;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media screen and (min-width: 767px) {
+  .photo {
+    width: 18rem;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  footer {
+    font-size: 1em;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (min-width: 1023px) {
+  .photo {
+    width: 18rem;
   }
-  to {
-    transform: rotate(360deg);
+  h1 {
+    font-size: 3em;
+  }
+  .jumbotron {
+    height: 32em;
   }
 }
