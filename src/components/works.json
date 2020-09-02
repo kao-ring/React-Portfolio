@@ -1,0 +1,106 @@
+[
+  {
+    "name": "THE VILLAGE",
+    "image": "img/kiki-the-village.png",
+    "github_link": "https://github.com/kao-ring/Project-2",
+    "deployed_link": "https://limitless-refuge-18664.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "HTML, CSS, Bootstrap, Javascript, jQuery, Sequelize, MySQL, NodeExpress, Handlebars, github, heroku"
+  },
+  {
+    "name": "Paws City",
+    "image": "img/kiki_Paws City.png",
+    "github_link": "https://github.com/nata-stelmakh/PawsCity",
+    "deployed_link": "https://nata-stelmakh.github.io/PawsCity/",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "HTML, CSS, BULMA, Javascript, jQuery, github, API,Responsive Design"
+  },
+  {
+    "name": "Employees Directory",
+    "image": "img/kiki-employee-directory.png",
+    "github_link": "https://github.com/kao-ring/Employee-Directory",
+    "deployed_link": "https://employee-directory-kc.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "React.js "
+  },
+  {
+    "name": "Weathe Dashboard",
+    "image": "img/kiki_Weather Dashboard.png",
+    "github_link": "https://github.com/kao-ring/Weather-Dashboard",
+    "deployed_link": "https://kao-ring.github.io/Weather-Dashboard/",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "HTML, CSS, Bootstrap, Javascript, API, Responsive Design, Local Storage"
+  },
+  {
+    "name": "TemplateEngine_EmployeeSummary",
+    "image": "img/kiki-TemplateEngine_EmployeeSummary.png",
+    "github_link": "https://github.com/kao-ring/TemplateEngine_EmployeeSummary",
+    "deployed_link": "https://github.com/kao-ring/TemplateEngine_EmployeeSummary",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "Node.js, Express"
+  },
+  {
+    "name": "Budget-Trackers",
+    "image": "img/kiki-budget-tracker.png",
+    "github_link": "https://github.com/kao-ring/Budget-Trackers",
+    "deployed_link": "https://budget-trackers-kc.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "Service Workers, IndexedDB "
+  },
+  {
+    "name": "Eat-Da-Burger",
+    "image": "img/kiki-burger_app.png",
+    "github_link": "https://github.com/kao-ring/Eat-Da-Burger-",
+    "deployed_link": "https://eat-da-burger-kiki.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "MySQL, handlebar"
+  },
+  {
+    "name": "Workout-Tracker",
+    "image": "img/kiki-workout-tracker.png",
+    "github_link": "https://github.com/kao-ring/Workout-Tracker",
+    "deployed_link": "https://workout-tracker-kc.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "MONGO_DB"
+  },
+  {
+    "name": "Employee Tracker",
+    "image": "img/kiki-employee-tracker.png",
+    "github_link": "https://github.com/kao-ring/Employee-Tracker",
+    "deployed_link": "https://youtu.be/Z2D-PwOnHo4",
+    "deployed_icon": "img/icons/youtube.png",
+    "used_tech": "node, inquirer, MySQL"
+  },
+  {
+    "name": "Code Quiz",
+    "image": "img/kiki_Coding Quiz.png",
+    "github_link": "https://github.com/kao-ring/Code-Quiz---HW04",
+    "deployed_link": "https://kao-ring.github.io/Code-Quiz---HW04/",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "Web APIs, setInterval, Document Object Model "
+  },
+  {
+    "name": "Note-Taker",
+    "image": "img/kiki-note_taker.png",
+    "github_link": "https://github.com/kao-ring/Note-Taker",
+    "deployed_link": "https://note-taker-express-kc.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "Express.js, Routing, Postman"
+  },
+  {
+    "name": "Work-Day-Scheduler",
+    "image": "img/kiki_Work Day Scheduler.png",
+    "github_link": "https://github.com/kao-ring/Work-Day-Scheduler",
+    "deployed_link": "https://kao-ring.github.io/Work-Day-Scheduler/",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "Node.js, npm, Inquirer, ES6, Asynchronous JavaScript"
+  },
+  {
+    "name": "Password-Generator",
+    "image": "img/kiki-password-generator.png",
+    "github_link": "https://github.com/kao-ring/Password-Generator",
+    "deployed_link": "https://kao-ring.github.io/Password-Generator/",
+    "deployed_icon": "img/icons/Octocat.png",
+    "used_tech": "JavaScript"
+  }
+]

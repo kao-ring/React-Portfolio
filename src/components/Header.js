@@ -7,7 +7,6 @@ const Header = () => {
   return (
     <header className="sticky-top">
       <div className="row d-flex align-items-center bg-white">
-        {/* <!-- My name section --> */}
         <h1 className="col-md-5 bg-warning p-4 m-0 border-warning text-light text-center">
           Kaori Caplan
         </h1>
