@@ -7,8 +7,10 @@ const Header = () => {
   return (
     <header className="sticky-top">
       <div className="row d-flex align-items-center bg-white">
-        <h1 className="col-md-5 bg-warning p-4 m-0 border-warning text-light text-center">
-          Kaori Caplan
+        <h1 className="col-md-5 bg-warning p-4 m-0 border-warning  text-center">
+          <a href="/" className="text-light">
+            Kaori Caplan
+          </a>
         </h1>
         <div className="col-md-2 bg-white"></div>
 
