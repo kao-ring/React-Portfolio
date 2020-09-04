@@ -4,6 +4,12 @@
 
 header {
   border-bottom: solid 2px;
+  background-color: maroon;
+}
+
+footer {
+  background-color: maroon;
+  /* font-size: 0.8em; */
 }
 
 p {
@@ -16,24 +22,22 @@ h5 {
 .container {
   margin-bottom: 200px;
 }
-footer {
-  font-size: 0.8em;
-}
+
 .banner {
   margin-top: 80%;
   margin-bottom: 5%;
 }
 
 .icon {
-  height: 2em;
+  width: 2em;
   margin: 5px;
 }
 .icon-h {
-  height: 3em;
+  width: 3em;
 }
 
 .photo {
-  width: 100%;
+  width: 225px;
 }
 
 h1 {
@@ -44,6 +48,9 @@ h1 {
 }
 nav {
   font-size: 1em;
+}
+.nav-link {
+  color: white;
 }
 h5,
 p {

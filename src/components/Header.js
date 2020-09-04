@@ -6,15 +6,15 @@ const Header = () => {
   const location = useLocation();
   return (
     <header className="sticky-top">
-      <div className="row d-flex align-items-center bg-white">
-        <h1 className="col-md-5 bg-warning p-4 m-0 border-warning  text-center">
-          <a href="/" className="text-light">
+      <div className="row d-flex align-items-center ">
+        <h1 className="col-md-5  p-2 m-0 border-warning text-light text-center">
+          <a href="/" className="nav-link text-light">
             Kaori Caplan
           </a>
         </h1>
-        <div className="col-md-2 bg-white"></div>
+        <div className="col-md-2 "></div>
 
-        <div className="col-md-5 m-0 bg-white">
+        <div className="col-md-5 m-0 ">
           <nav className="navbar navbar-expand-md navbar-light">
             <Link
               to="/"

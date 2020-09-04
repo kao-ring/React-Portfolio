@@ -3,7 +3,7 @@ import "../App.css";
 
 const Footer = () => {
   return (
-    <footer className="fixed-bottom p-2 text-center bg-dark text-white">
+    <footer className="fixed-bottom p-1 text-center text-white">
       <small>Copyright &copy; Kaori Caplan </small>
       <a
         href="http://www.linkedin.com/in/kaori-nakajima-64750072/"
