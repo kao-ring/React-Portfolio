@@ -27,6 +27,15 @@
     "discription": "This app will allow you to search employees by using search form by one of the field and click on the headers to sort the table."
   },
   {
+    "name": "Google-Books-Search",
+    "image": "img/kiki-googlebook.png",
+    "github_link": "https://github.com/kao-ring/Google-Books-Search",
+    "deployed_link": "https://google-book-search-kc.herokuapp.com/",
+    "deployed_icon": "img/icons/heroku.png",
+    "used_tech": "React.js ",
+    "discription": "This app will allow you to search google books and save the one you choose."
+  },
+  {
     "name": "Weathe Dashboard",
     "image": "img/kiki_Weather Dashboard.png",
     "github_link": "https://github.com/kao-ring/Weather-Dashboard",
