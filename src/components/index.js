@@ -19,17 +19,15 @@ const About = () => {
 
         <p className="lead">
           Hello, I'm Kaori Caplan. <br />
-          I'm a Columbia Engineering Boot Camp student.
+          I'm a Professional Full Stack Developer.
         </p>
         <p className="lead">
-          I'm also a sax player. I've been playing music since I was 6, started
-          my career when I was 18 years old as a sax player at a big band at a
-          dance hall. Since then, I've worked with artists such as Ben E. King,
-          The Stylistics, Three Degrees etc. I got my first computer when I was
-          25, to make music file for mobile phone company as ringtones and
-          starting making some band homepages with html, making some game
-          automation programs with java scripts for fun. And now I'm about to
-          start a new career.
+          Professional Full Stack Developer with music background experience in
+          game/music programming with JavaScript and MIDI. Recently earned a
+          certificate in full stack development from the Columbia Engineering in
+          New York, with newly developed skills in MERN stack, CSS and
+          responsive web design. Currently focused on server-side development
+          using Javascript frameworks.
         </p>
       </div>
     </main>
