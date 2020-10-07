@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="fixed-bottom p-1 text-center text-white">
       <small>Copyright &copy; Kaori Caplan </small>
       <a
-        href="https://www.linkedin.com/in/kaori-nakajima-64750072/"
+        href="https://www.linkedin.com/in/kaori-caplan/"
         target="_blank"
         rel="noopener noreferrer"
       >

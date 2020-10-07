@@ -28,6 +28,17 @@ const Contact = () => {
           </li>
           <br />
           <li>
+            LinkedIn :{" "}
+            <a
+              href="https://www.linkedin.com/in/kaori-caplan/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://www.linkedin.com/in/kaori-caplan/
+            </a>
+          </li>
+          <br />
+          <li>
             phone : <a href="tel:+1-917-663-0289"> +1-917-663-0289</a>
           </li>
           <br />
